@@ -1,0 +1,49 @@
+* [33mcommit d6dcd7773cfe3eed85dd02de0f384caabfae74a5[m[33m ([m[1;32mstyle[m[33m)[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:46:06 2025 +0300
+[31m|[m 
+[31m|[m     Renamed hello.html; moved style.css
+[31m|[m 
+* [33mcommit 19d903fbeac6517b33214ca74a24c90107117adc[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:42:27 2025 +0300
+[31m|[m 
+[31m|[m     Added css stylesheet
+[31m|[m 
+* [33mcommit 33bf877fe37255f7fbb9fa104f02b5399f7790a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:39:39 2025 +0300
+[31m|[m 
+[31m|[m     Added copyright statement with email
+[31m|[m 
+* [33mcommit 64109c0bdfad658371c3d4818b8552d8545fbb0e[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:36:54 2025 +0300
+[31m|[m 
+[31m|[m     Revert "Oops, we didn't want this commit"
+[31m|[m     
+[31m|[m     This reverts commit ea3d39352b02f4233e4862b12ba833d1abc6a017.
+[31m|[m 
+* [33mcommit ea3d39352b02f4233e4862b12ba833d1abc6a017[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:36:45 2025 +0300
+[31m|[m 
+[31m|[m     Oops, we didn't want this commit
+[31m|[m 
+* [33mcommit 55215077c3768bbb7b4d99896561aeb043889cfd[m[33m ([m[1;33mtag: [m[1;33mv1[m[33m)[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:29:24 2025 +0300
+[31m|[m 
+[31m|[m     Added standard HTML page tags
+[31m|[m 
+* [33mcommit 5a51538c26c64dd395955fe23cbd73e6a573bfaa[m[33m ([m[1;33mtag: [m[1;33mv1-beta[m[33m)[m
+[31m|[m Author: rost-aa <ytrostovskiy@gmail.com>
+[31m|[m Date:   Thu Apr 10 16:25:32 2025 +0300
+[31m|[m 
+[31m|[m     Changes for a and b
+[31m|[m 
+* [33mcommit b62c919e014dd0b9c93d46826ccc47d8e44333c2[m
+  Author: rost-aa <ytrostovskiy@gmail.com>
+  Date:   Thu Apr 10 16:21:34 2025 +0300
+  
+      Initial Commit
